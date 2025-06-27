@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Ainul Yakin
-Frontend Developer | React & TypeScript Enthusiast | Learning Flutter 🚀
+Frontend Developer | React & TypeScript Enthusiast | Web3 Enthusiast 🚀
 
 - 🔭 I’m currently working on freelance web projects
 - 🌱 I’m currently learning Flutter & Web3
@@ -13,5 +13,5 @@ Frontend Developer | React & TypeScript Enthusiast | Learning Flutter 🚀
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ainulyakin&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yaaqin&show_icons=true&theme=radical)
 
