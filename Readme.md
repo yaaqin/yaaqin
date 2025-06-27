@@ -15,6 +15,8 @@ Frontend Developer | React & TypeScript Enthusiast | Web3 Enthusiast 🚀
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yaaqin&show_icons=true&theme=radical)
 
+![Your Gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=yaaqin&show_icons=true&theme=radical)
+
 ## 🛠️ Defi and LP
 
 <img src="./public/assets/defi setengh jalan.svg" alt="Add Product Flow" width="100%" />
