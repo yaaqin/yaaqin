@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Ainul Yakin
+# Hi there 👋, I'm Yaaqin
 Frontend Developer | React & TypeScript Enthusiast | Web3 Enthusiast 🚀
 
 - 🔭 I’m currently working on freelance web projects
-- 🌱 I’m currently learning Flutter & Web3
+- 🌱 I’m currently learning Web3
 - 💬 Ask me about React, Zustand, or Next.js
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ainulyakin)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yaaqin)
 
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
