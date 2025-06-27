@@ -15,7 +15,14 @@ Frontend Developer | React & TypeScript Enthusiast | Web3 Enthusiast 🚀
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yaaqin&show_icons=true&theme=radical)
 
-![Your Gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=yaaqin&show_icons=true&theme=radical)
+## 🧪 GitLab Profile
+
+🔗 [Visit my GitLab](https://gitlab.com/yaaqin)  
+
+![GitLab last activity](https://img.shields.io/gitlab/last-activity/yaaqin?logo=gitlab)
+![GitLab repo count](https://img.shields.io/badge/GitLab-Repos-12-orange?logo=gitlab)
+
+
 
 ## 🛠️ Defi and LP
 
