@@ -21,9 +21,3 @@ Frontend Developer | React & TypeScript Enthusiast | Web3 Enthusiast 🚀
 
 ![GitLab last activity](https://img.shields.io/gitlab/last-activity/yaaqin?logo=gitlab)
 ![GitLab repo count](https://img.shields.io/badge/GitLab-Repos-12-orange?logo=gitlab)
-
-
-
-## 🛠️ Defi and LP
-
-<img src="./public/assets/defi setengh jalan.svg" alt="Add Product Flow" width="100%" />
