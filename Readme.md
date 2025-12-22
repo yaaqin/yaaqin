@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Yaaqin
-Frontend Developer | React & TypeScript Enthusiast | Web3 Enthusiast 🚀
+Frontend Developer | noSql Database | Junior Web3 Dev 🚀
 
-- 🔭 I’m currently working on freelance web projects
+- 🔭 I’m currently Fulltime Frontend Web Dev
 - 🌱 I’m currently learning Web3
-- 💬 Ask me about React, Zustand, or Next.js
+- 💬 Ask me about React, Zustand, Next.js, or Nest.js
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yaaqin)
 
 ## 🛠️ Tech Stack
@@ -11,9 +11,6 @@ Frontend Developer | React & TypeScript Enthusiast | Web3 Enthusiast 🚀
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yaaqin&show_icons=true&theme=radical)
 
 ## 🧪 GitLab Profile
 
