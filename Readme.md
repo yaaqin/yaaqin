@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Yaaqin
-Frontend Developer | noSql Database | Junior Web3 Dev 🚀
+Fullstack Developer | Node js | Junior Web3 Dev 🚀
 
 - 🔭 I’m currently Fulltime Fullstack Web Dev (Node js)
 - 🌱 I’m currently learning Web3
