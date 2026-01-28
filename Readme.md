@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Yaaqin
 Frontend Developer | noSql Database | Junior Web3 Dev 🚀
 
-- 🔭 I’m currently Fulltime Frontend Web Dev
+- 🔭 I’m currently Fulltime Fullstack Web Dev (Node js)
 - 🌱 I’m currently learning Web3
 - 💬 Ask me about React, Zustand, Next.js, or Nest.js
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yaaqin)
